@@ -3,7 +3,7 @@
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/ashish03399/React-js-ssr-csr-template.git
+$ git clone https://github.com/ashish03399/react-js-ssr-csr-template.git
 
 # go into app's directory
 $ cd React-js-ssr-csr-template
