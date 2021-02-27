@@ -1,3 +1,6 @@
+## React Js SSR and CSR Template
+This is react js template which contain Server side rendering and client side rendering both with minimal required third party modules. It also support normal css and module css on server end. 
+
 ## Installation
 ### Clone repo
 
